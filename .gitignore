@@ -1,2 +1,5 @@
 .env
 *.xlsx
+*.csv
+!airline_tweets.csv
+venv/
